@@ -1,0 +1,8 @@
+D:\projects\x431LogViewer\x431LogViewer\bin\Release\x431LogViewer.exe
+D:\projects\x431LogViewer\x431LogViewer\bin\Release\x431LogViewer.pdb
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.MainForm.resources
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.Properties.Resources.resources
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.csproj.GenerateResource.cache
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.csproj.CoreCompileInputs.cache
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.exe
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.pdb
