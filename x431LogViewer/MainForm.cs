@@ -123,7 +123,16 @@ namespace x431LogViewer
                     {
                         fs.Read(buffer, 0, 4);
                         var16 = BitConverter.ToInt16(buffer, 0);
-                        row[j + 1] = pointValues[var16 - 0x09];
+                        int index = var16 - 0x09;
+                        if (0 <= index && index < pointValues.Count)
+                        {
+                            row[j + 1] = pointValues[index];
+                        }
+                        else
+                        {
+                            row[j + 1] = 0;
+                        }
+
                     }
 
                     table.Rows.Add(row);
