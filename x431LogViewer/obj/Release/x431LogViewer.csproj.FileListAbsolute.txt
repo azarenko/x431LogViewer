@@ -6,3 +6,4 @@ D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.csproj.Generat
 D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.csproj.CoreCompileInputs.cache
 D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.exe
 D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.pdb
+D:\projects\x431LogViewer\x431LogViewer\obj\Release\x431LogViewer.csprojAssemblyReference.cache
